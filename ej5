@@ -1,0 +1,3 @@
+El patron flyweight se puede utilizar en casos donde muchas clases requieran de los mismos datos, pero a la vez estas no
+puedan modificarlos, por ejemplo en mediciones meteorologas, donde varios centros de computo puedan usar los mismos datos
+cada uno con un objetivo propio
